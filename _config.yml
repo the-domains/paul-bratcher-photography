@@ -1,0 +1,23 @@
+name: Paul Bratcher Photography
+favicon: null
+layout_spectrum: 0.7034358105156571
+typography_spectrum: 0.5644170949235559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6237164952326566
+  lightness: 0.6762109091505408
+  saturation: 0.9861635237466544
+  rhythmicContrast: 0.19679260882548988
+purpose: []
