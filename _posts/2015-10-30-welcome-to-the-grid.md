@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-30T08:52:33.945Z'
-dateModified: '2015-10-30T08:52:15.424Z'
-title: Welcome to the Grid
+datePublished: '2015-10-30T09:08:01.468Z'
+dateModified: '2015-10-30T09:07:46.835Z'
+title: Welcome to the grid
 authors: []
 publisher:
   name: null
@@ -21,4 +21,4 @@ url: welcome-to-the-grid/index.html
 _type: Article
 
 ---
-I thought that I would experiment with the GRID, its a self designing website, which looks like it will give a great experience for photographers.
+Experimenting with the grid.io
