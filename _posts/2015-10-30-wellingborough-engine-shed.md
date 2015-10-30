@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:bda11a1d-99d3-483f-a6e8-37aa19f708d5'
 author: []
-datePublished: '2015-10-30T09:02:14.199Z'
+datePublished: '2015-10-30T09:06:46.543Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
+  url: null
+  favicon: null
 title: Wellingborough engine shed
-dateModified: '2015-10-30T09:01:35.527Z'
+dateModified: '2015-10-30T09:03:16.492Z'
 sourcePath: _posts/2015-10-30-wellingborough-engine-shed.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: wellingborough-engine-shed/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
