@@ -4,7 +4,7 @@
         <description><![CDATA[Paul Bratcher Photography - Beta]]></description>
         <link>https://thegrid.ai/paul-bratcher-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 09:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 09:08:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paul-bratcher-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wellingborough engine shed]]></title>
@@ -12,6 +12,13 @@
             <link>urn:uuid:bda11a1d-99d3-483f-a6e8-37aa19f708d5</link>
             <guid isPermaLink="false">c2b58a63-0237-490d-9c43-0f662281ce46</guid>
             <pubDate>Fri, 30 Oct 2015 09:06:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the grid]]></title>
+            <description><![CDATA[<article><h1>Welcome to the grid</h1><p>Experimenting with the grid.io</p></article>]]></description>
+            <link>https://thegrid.ai/paul-bratcher-photography/welcome-to-the-grid/index.html</link>
+            <guid isPermaLink="false">792c1e7b-d370-46e1-84ff-1ba4f83edd69</guid>
+            <pubDate>Fri, 30 Oct 2015 09:08:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
