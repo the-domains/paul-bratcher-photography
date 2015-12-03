@@ -1,7 +1,7 @@
 name: Paul Bratcher Photography
 favicon: null
-layout_spectrum: 0.7034358105156571
-typography_spectrum: 0.5644170949235559
+layout_spectrum: 0.97971
+typography_spectrum: 0.22676
 title: Paul Bratcher Photography - Beta
 cta:
   domain: null
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.6237164952326566
+  brandColors:
+    - '#000000'
+    - '#77b3df'
+    - '#1d3b55'
+    - '#548bb9'
+    - '#d0dee1'
+  brandStrength: 0.1875
   lightness: 0.6762109091505408
   saturation: 0.9861635237466544
   rhythmicContrast: 0.19679260882548988
