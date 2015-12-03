@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-03T14:23:21.876Z'
-dateModified: '2015-12-03T14:23:03.422Z'
+datePublished: '2015-12-03T14:28:10.451Z'
+dateModified: '2015-12-03T14:28:04.133Z'
 title: Still loch
 author: []
+sourcePath: _posts/2015-12-03-still-loch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-still-loch.md
-published: true
 url: still-loch/index.html
 _type: Article
 
